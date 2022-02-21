@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-furyctl [![Build](https://github.com/nutellinoit/asdf-furyctl/actions/workflows/build.yml/badge.svg)](https://github.com/nutellinoit/asdf-furyctl/actions/workflows/build.yml) [![Lint](https://github.com/nutellinoit/asdf-furyctl/actions/workflows/lint.yml/badge.svg)](https://github.com/nutellinoit/asdf-furyctl/actions/workflows/lint.yml)
+# asdf-furyctl [![Build](https://github.com/sighupio/asdf-furyctl/actions/workflows/build.yml/badge.svg)](https://github.com/sighupio/asdf-furyctl/actions/workflows/build.yml) [![Lint](https://github.com/sighupio/asdf-furyctl/actions/workflows/lint.yml/badge.svg)](https://github.com/sighupio/asdf-furyctl/actions/workflows/lint.yml)
 
 
 [furyctl](https://github.com/sighupio/furyctl/blob/master/README.md) plugin for the [asdf version manager](https://asdf-vm.com).
@@ -27,7 +27,7 @@ Plugin:
 ```shell
 asdf plugin add furyctl
 # or
-asdf plugin add furyctl https://github.com/nutellinoit/asdf-furyctl.git
+asdf plugin add furyctl https://github.com/sighupio/asdf-furyctl.git
 ```
 
 furyctl:
@@ -53,8 +53,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/nutellinoit/asdf-furyctl/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/sighupio/asdf-furyctl/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Samuele Chiocca](https://github.com/nutellinoit/)
+See [LICENSE](LICENSE) © [SIGHUP](https://github.com/sighupio/)
